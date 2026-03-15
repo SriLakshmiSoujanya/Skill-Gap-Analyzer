@@ -143,4 +143,3 @@ Use **Get Data > Web** in Power BI and connect to:
 - You can also maintain a role catalog using columns:
    - `role`
    - `skills` (pipe-separated, e.g. `Python|SQL|Power BI`)
->>>>>>> c16ef1c (Initial commit)
