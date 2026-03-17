@@ -1,0 +1,40 @@
+role,skills
+Data Analyst,SQL|Python|Excel|Power BI|Tableau|Statistics|Data Visualization
+Data Scientist,Python|Machine Learning|Deep Learning|Statistics|NLP|SQL
+Business Analyst,Excel|SQL|Power BI|Tableau|Business Intelligence
+Data Engineer,Python|SQL|Spark|Hadoop|ETL|Data Warehousing
+BI Developer,Power BI|SQL|Data Warehousing|ETL|Data Visualization
+Analytics Engineer,SQL|Python|dbt|Data Modeling|Data Warehousing
+Product Analyst,SQL|Python|Data Visualization|Statistics|Excel
+Marketing Analyst,Excel|SQL|Statistics|Data Visualization|Google Analytics
+Generative AI Engineer,Python|Transformers|LLMs|Prompt Engineering|PyTorch|HuggingFace
+AI Engineer,Python|Deep Learning|TensorFlow|PyTorch|Machine Learning
+Machine Learning Engineer,Python|Machine Learning|TensorFlow|Scikit-learn|Deep Learning
+NLP Engineer,Python|NLP|Transformers|SpaCy|HuggingFace
+Computer Vision Engineer,Python|OpenCV|CNN|Deep Learning|TensorFlow
+AI Researcher,Python|Machine Learning|Statistics|Deep Learning|Research Methods
+Frontend Developer,HTML|CSS|JavaScript|React|UI/UX|Git
+React Developer,JavaScript|React|Redux|HTML|CSS|REST APIs
+Backend Developer,Python|Node.js|Django|APIs|SQL|Database Design
+Full Stack Developer,HTML|CSS|JavaScript|React|Node.js|SQL|REST APIs
+Web Developer,HTML|CSS|JavaScript|Git|REST APIs
+Flutter Developer,Dart|Flutter|REST APIs|Firebase|Mobile UI
+Mobile App Developer,Flutter|React Native|REST APIs|Firebase|Mobile Development
+Android Developer,Java|Kotlin|Android Studio|REST APIs|SQLite
+iOS Developer,Swift|Xcode|REST APIs|Mobile Development
+ServiceNow Developer,ServiceNow|JavaScript|Workflow Automation|REST APIs|ITSM
+ServiceNow Administrator,ServiceNow|ITSM|CMDB|System Configuration|Scripting
+ServiceNow Consultant,ServiceNow|ITSM|Business Process Automation|Integration
+Cloud Engineer,AWS|Docker|Kubernetes|Linux|Cloud Architecture
+AWS Cloud Engineer,AWS|EC2|S3|Lambda|IAM|Cloud Security
+DevOps Engineer,Docker|Kubernetes|CI/CD|Jenkins|Linux|Git
+Site Reliability Engineer,Linux|Monitoring Tools|AWS|Automation
+Cloud Architect,AWS|Azure|Cloud Security|System Design
+Cybersecurity Analyst,Network Security|Linux|Python|Security Monitoring
+Ethical Hacker,Penetration Testing|Kali Linux|Networking|Security Tools
+Security Engineer,Cryptography|Network Security|Security Architecture
+SOC Analyst,Incident Response|Security Monitoring|SIEM Tools
+Robotics Engineer,Robotics|C++|ROS|Embedded Systems|Sensors
+Embedded Systems Engineer,C|Microcontrollers|IoT|Embedded Programming
+IoT Developer,IoT|Sensors|Microcontrollers|Python|MQTT
+Automation Engineer,PLC Programming|Robotics|Industrial Automation

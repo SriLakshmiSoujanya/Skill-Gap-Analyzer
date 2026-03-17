@@ -1,0 +1,62 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#F6F8FF"/>
+
+  <g opacity="0.65" filter="url(#softBlur)">
+    <ellipse cx="950" cy="520" rx="760" ry="380" fill="#FFFFFF"/>
+  </g>
+
+  <path d="M-120 120C70 -20 320 -50 470 70C630 200 560 390 370 420C170 455 -80 360 -120 220V120Z" fill="url(#leftWave)"/>
+  <path d="M1210 980C1410 840 1690 860 1940 640V1080H1210V980Z" fill="url(#rightWave)"/>
+  <path d="M1080 1030C1250 870 1490 820 1710 860C1820 880 1880 920 1940 980V1080H1080V1030Z" fill="url(#rightWaveSoft)"/>
+
+  <g opacity="0.35" stroke="#A6B4E7" stroke-width="1.2">
+    <path d="M0 420L170 350L330 435L420 560L280 660L100 600L0 700"/>
+    <path d="M1420 80L1590 120L1710 210L1680 330L1510 370L1380 290L1420 80Z"/>
+  </g>
+
+  <g fill="#A8B5E6" opacity="0.7">
+    <circle cx="170" cy="350" r="4"/>
+    <circle cx="330" cy="435" r="4"/>
+    <circle cx="420" cy="560" r="4"/>
+    <circle cx="280" cy="660" r="4"/>
+    <circle cx="1590" cy="120" r="4"/>
+    <circle cx="1710" cy="210" r="4"/>
+    <circle cx="1510" cy="370" r="4"/>
+  </g>
+
+  <g opacity="0.18" transform="translate(250 250)">
+    <rect x="0" y="120" width="18" height="90" rx="4" fill="#8EA2E8"/>
+    <rect x="32" y="80" width="18" height="130" rx="4" fill="#8EA2E8"/>
+    <rect x="64" y="96" width="18" height="114" rx="4" fill="#8EA2E8"/>
+    <rect x="96" y="62" width="18" height="148" rx="4" fill="#8EA2E8"/>
+    <rect x="128" y="110" width="18" height="100" rx="4" fill="#8EA2E8"/>
+    <path d="M-10 214H156" stroke="#8EA2E8" stroke-width="2"/>
+  </g>
+
+  <g opacity="0.18" transform="translate(1540 650)">
+    <rect x="0" y="120" width="18" height="90" rx="4" fill="#8EA2E8"/>
+    <rect x="32" y="80" width="18" height="130" rx="4" fill="#8EA2E8"/>
+    <rect x="64" y="96" width="18" height="114" rx="4" fill="#8EA2E8"/>
+    <rect x="96" y="62" width="18" height="148" rx="4" fill="#8EA2E8"/>
+    <rect x="128" y="110" width="18" height="100" rx="4" fill="#8EA2E8"/>
+    <path d="M-10 214H156" stroke="#8EA2E8" stroke-width="2"/>
+  </g>
+
+  <defs>
+    <filter id="softBlur" x="60" y="-40" width="1780" height="1120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="90"/>
+    </filter>
+    <linearGradient id="leftWave" x1="140" y1="10" x2="530" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8E2FF"/>
+      <stop offset="1" stop-color="#E9EEFF"/>
+    </linearGradient>
+    <linearGradient id="rightWave" x1="1360" y1="860" x2="1940" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9D8FF"/>
+      <stop offset="1" stop-color="#DCE6FF"/>
+    </linearGradient>
+    <linearGradient id="rightWaveSoft" x1="1200" y1="840" x2="1940" y2="1080" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7EDFF"/>
+      <stop offset="1" stop-color="#D5E0FF"/>
+    </linearGradient>
+  </defs>
+</svg>

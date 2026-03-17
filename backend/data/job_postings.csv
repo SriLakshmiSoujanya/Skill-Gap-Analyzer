@@ -1,0 +1,47 @@
+year,role,skill,demand_score
+2022,data analyst,tableau,82
+2022,data analyst,power bi,55
+2022,data analyst,sql,76
+2022,data analyst,excel,80
+2022,data scientist,python,85
+2022,data scientist,sql,72
+2022,data scientist,machine learning,68
+2022,data scientist,tableau,40
+2022,business analyst,excel,84
+2022,business analyst,tableau,60
+2022,business analyst,sql,50
+2022,backend developer,python,58
+2022,backend developer,flask,45
+2022,backend developer,sql,62
+2023,data analyst,tableau,64
+2023,data analyst,power bi,86
+2023,data analyst,sql,88
+2023,data analyst,python,63
+2023,data scientist,python,92
+2023,data scientist,sql,85
+2023,data scientist,machine learning,81
+2023,data scientist,power bi,52
+2023,business analyst,power bi,73
+2023,business analyst,excel,76
+2023,business analyst,sql,66
+2023,backend developer,python,70
+2023,backend developer,flask,62
+2023,backend developer,postgresql,67
+2024,data analyst,sql,95
+2024,data analyst,python,90
+2024,data analyst,power bi,88
+2024,data analyst,tableau,46
+2024,data scientist,python,98
+2024,data scientist,sql,91
+2024,data scientist,machine learning,90
+2024,data scientist,deep learning,75
+2024,business analyst,sql,79
+2024,business analyst,power bi,82
+2024,business analyst,excel,71
+2024,backend developer,python,86
+2024,backend developer,flask,74
+2024,backend developer,postgresql,83
+2024,data engineer,python,93
+2024,data engineer,sql,97
+2024,data engineer,airflow,69
+2024,data engineer,spark,73
